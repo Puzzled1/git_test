@@ -1,3 +1,1 @@
-# git_test
-
-sup
+This is Sidney's first git project!
